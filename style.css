@@ -25,7 +25,7 @@ body{
 }
 
 .todo-container input{
-    padding: 10px 5px;
+    padding: 10px 2px;
     outline: none;
     border: 1px solid #05076d;
     font-family: "Poppins", cursive;
