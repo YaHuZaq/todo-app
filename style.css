@@ -45,6 +45,7 @@ body{
     font-family: "Poppins", cursive;
     border: 1px solid #f0f8ff;
     border-radius: 5px;
+    margn-top:40px; 
 }
 
 .todo-container ul{
@@ -83,7 +84,7 @@ body{
    height: 30px;
    position: fixed;
    flex-direction: row;
-   gap: 40px;
+   gap: 100px;
    bottom: 40px;
    margin-top: -180px
 }
